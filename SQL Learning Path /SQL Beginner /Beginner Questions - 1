@@ -1,0 +1,19 @@
+Retrieve all data from the students table.
+
+Show the names of students who scored more than 80.
+
+Find all employees who work in the ‘HR’ department.
+
+Select students who are from ‘Mumbai’ and scored above 90.
+
+List all unique departments from the employees table.
+
+Show student names and their marks sorted in descending order.
+
+Count the number of students in each city.
+
+Get all customers whose name starts with ‘A’.
+
+Show products with a price between 100 and 500.
+
+Display the top 5 highest-paid employees
